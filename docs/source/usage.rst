@@ -1,9 +1,9 @@
-Usage
+Black One
 =====
 
 .. _installation:
 
-Installation
+Test Phase
 ------------
 
 To use Lumache, first install it using pip:
